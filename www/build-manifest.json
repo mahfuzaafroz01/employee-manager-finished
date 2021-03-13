@@ -5,7 +5,7 @@
       "imports": []
     },
     "js/dashboard/api/index.js": {
-      "bytes": 594,
+      "bytes": 626,
       "imports": []
     },
     "js/utils/dataFetcher.js": {
@@ -47,7 +47,7 @@
       ]
     },
     "_snowpack/pkg/ejs.js": {
-      "bytes": 37787,
+      "bytes": 38854,
       "imports": []
     },
     "js/utils/renderTemplate.js": {
@@ -199,7 +199,7 @@
       "entryPoint": "js/dashboard/index.js",
       "inputs": {
         "js/dashboard/api/index.js": {
-          "bytesInOutput": 358
+          "bytesInOutput": 390
         },
         "js/utils/dataFetcher.js": {
           "bytesInOutput": 361
@@ -217,7 +217,7 @@
           "bytesInOutput": 36
         },
         "_snowpack/pkg/ejs.js": {
-          "bytesInOutput": 12949
+          "bytesInOutput": 13634
         },
         "js/utils/renderTemplate.js": {
           "bytesInOutput": 55
@@ -247,7 +247,7 @@
           "bytesInOutput": 278
         }
       },
-      "bytes": 18234
+      "bytes": 18951
     }
   }
 }
